@@ -22,3 +22,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Password Manager - SECURITY: Never commit these files!
+key.key
+passwords.txt
