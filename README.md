@@ -12,7 +12,9 @@ A collection of simple beginner-friendly Python terminal games.
    Kid-friendly text adventure with simple choices, items, and a final guardian.
 4. **Quiz Game** (`Quiz game/quiz_game.py`)  
    Multiple-choice shuffled questions with explanations.
-5. **Password Manager** (`password_manager.py`) 🔒  
+5. **Pig Dice Game** (`pig.py`) 🎲  
+   Classic dice game - roll to score points, but don't roll a 1!
+6. **Password Manager** (`password_manager.py`) 🔒  
    Securely store and retrieve passwords with encryption.
 
 ## How to Run (Windows PowerShell)
@@ -22,6 +24,7 @@ cd "c:\Users\ksvar\OneDrive\Desktop\Python project"
 python guess_number.py
 python rock_paper_scissors.py
 python choose_your_own_adventure.py
+python pig.py
 python ".\Quiz game\quiz_game.py"
 ```
 
@@ -68,6 +71,7 @@ Python project/
   choose_your_own_adventure.py
   guess_number.py
   rock_paper_scissors.py
+  pig.py
   password_manager.py
   Quiz game/
     quiz_game.py
